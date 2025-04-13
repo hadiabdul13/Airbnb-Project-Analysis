@@ -17,7 +17,7 @@ This project explores Airbnb listings in Bangkok using Python to uncover insight
 - Geospatial: folium (interactive maps)
 - Jupyter Notebook
 
-- ## Analysis Process
+## Analysis Process
 This project uses Airbnb listing data from Bangkok (uploaded in this repository) and follows a structured analysis pipeline:
 
 - Understanding and exploring the dataset  
